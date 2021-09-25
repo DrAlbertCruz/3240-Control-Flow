@@ -41,7 +41,7 @@ Start by cloning the lab and changing into the directory if you have not done
 so already:
 
 ```shell
-$ git clone git@github.com:DrAlbertCruz/3240-Control-Flow.git
+$ git clone https://github.com/DrAlbertCruz/3240-Control-Flow.git
 $ cd 3240-Control-Flow/
 ```
 
